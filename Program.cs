@@ -99,7 +99,7 @@ static int GetNumberFromUser(string message)
 
 static void showerror(string error)
 {
-    Console.WriteLine("*********");
+    Console.WriteLine("**********************");
     Console.WriteLine(error);
-    Console.WriteLine("*****************");
+    Console.WriteLine("***********************");
 }
