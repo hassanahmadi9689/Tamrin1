@@ -101,5 +101,5 @@ static void showerror(string error)
 {
     Console.WriteLine("*********");
     Console.WriteLine(error);
-    Console.WriteLine("*********");
+    Console.WriteLine("*****************");
 }
